@@ -137,7 +137,7 @@
 </picture>
 
 ### ⚡ GitHub Streak
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-qux2-1l3cq49q1-trimulia02s-projects.vercel.app?user=Trimulia02&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-qux2-1l3cq49q1-trimulia02s-projects.vercel.app?user=Trimulia02&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 </div>
 
