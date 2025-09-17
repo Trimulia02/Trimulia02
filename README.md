@@ -1,6 +1,6 @@
 <!-- Banner (Optional) -->
 <p align="center">
-  <img src="img/Hi! i.gif" width="80%" alt="GitHub Header Banner">
+  <img src="img/banner.gif" width="80%" alt="GitHub Header Banner">
 </p>
 
 <!-- Animated Typing Text -->
