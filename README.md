@@ -11,8 +11,7 @@
 ## About Me <img src="img/waving-pokemon.gif" width="30px">
 
 <p align="center">
-  🚀 Computer Engineering graduate passionate about UI/UX, Backend, Frontend, and Cybersecurity.<br>
-  💡 Always learning, building, and exploring new tech!
+  🚀 A Computer Engineering graduate with practical experience gained through internships and personal projects. I've worked on improving user interfaces with JavaScript, explored the complexities of blockchain, and built a strong foundation in Python for software development. I am passionate about applying my skills to contribute to a team and grow as a software engineer.
 </p>
 
 ## 📫 Connect With Me
