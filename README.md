@@ -1,7 +1,4 @@
 
-
-
-
 <!-- ===================== BANNER UTAMA (Opsional) ===================== -->
 <p align="center"><img src="img/github-header-banner.png" width="80%"></p>
 
