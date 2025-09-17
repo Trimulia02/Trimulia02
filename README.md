@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="img/banner.gif" width="85%" alt="GitHub Header Banner">
+  <img src="img/banner.gif" width="100%" alt="GitHub Header Banner">
 </div>
 
 <br>
