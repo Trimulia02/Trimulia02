@@ -137,7 +137,7 @@
 </picture>
 
 ### ⚡ GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trimulia02&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Trimulia02&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
