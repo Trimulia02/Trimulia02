@@ -1,110 +1,191 @@
 <!-- Animated Typing Text -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there;+Ready+to+build+something+awesome.&center=true&width=420&height=45&color=FFFFFF" alt="Typing Animation">
-</p>
-<!-- Banner (Optional) -->
-<p align="center">
-  <img src="img/banner.gif" width="80%" alt="GitHub Header Banner">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👨‍💻;Ready+to+build+something+awesome+🚀;Passionate+about+Cybersecurity+🔐;Let's+code+the+future+together!+💡&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" alt="Typing Animation">
+</div>
 
-## About Me <img src="img/waving-pokemon.gif" width="30px">
+<!-- Banner -->
+<div align="center">
+  <img src="img/banner.gif" width="85%" alt="GitHub Header Banner">
+</div>
 
-<p align="center">
-  💡 Eager to ship code that matters. I'm a Computer Engineering grad with a passion for building, securing, and optimizing systems. I've got a strong foundation in Python, practical experience with JavaScript, and a keen interest in blockchain and system security. Looking for a team where I can contribute and grow.
-</p>
+<br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<p style="display: flex; justify-content: space-between; align-items: center; max-width: 500px; margin: 0 auto; gap: 8px;">
-  <a href="mailto:trimulia002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/tri-mulia/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/trimuliab">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
+  
+**💡 Passionate Developer | 🛡️ Security Enthusiast | 🎯 Problem Solver**
 
----
+*Computer Engineering graduate with a mission to build secure, efficient, and impactful software solutions. I thrive on turning complex problems into elegant code and am always eager to learn cutting-edge technologies.*
 
-## 🚀 Tech Stack
+</div>
 
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Frontend Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+### 🌟 What Drives Me
+- 🚀 **Innovation**: Always exploring new technologies and frameworks
+- 🔐 **Security**: Passionate about cybersecurity and ethical hacking
+- 🌍 **Impact**: Building solutions that make a difference
+- 📚 **Learning**: Continuous growth and skill development
 
-### Backend & Database
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+<div align="center">
 
-### Desktop & Web Development
-<p align="center">
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/ReportLab-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="ReportLab"/>
-</p>
+### 📫 Let's Connect & Collaborate
 
-### Design & Productivity
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
+<a href="mailto:trimulia002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/tri-mulia/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/trimuliab">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-### DevOps & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-</p>
+</div>
 
-### Cybersecurity & Penetration Testing
-<p align="center">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
-  <img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logoColor=white" alt="Hydra"/>
-  <img src="https://img.shields.io/badge/Aircrack--ng-FF6600?style=for-the-badge&logoColor=white" alt="Aircrack-ng"/>
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal
 
-### Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+### 💻 Core Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,html,css" />
+</div>
 
----
+<div align="center">
+  
+| Language | Proficiency | Experience |
+|----------|------------|------------|
+| **Python** | ⭐⭐⭐⭐⭐ | Advanced - Main language for development & security |
+| **JavaScript** | ⭐⭐⭐⭐ | Proficient - Full-stack web development |
+| **Kotlin** | ⭐⭐⭐ | Intermediate - Android development |
+| **HTML/CSS** | ⭐⭐⭐⭐ | Proficient - Modern responsive design |
+
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,figma" />
+</div>
+
+### ⚡ Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase" />
+</div>
+
+### 🛠️ Development Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,aws,wordpress,qt" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/m9oruywyYbHL2/giphy.gif" width="32"> Cybersecurity & Penetration Testing
+
+<div align="center">
+
+### 🛡️ Security Toolkit
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
+<img src="https://img.shields.io/badge/Hydra-FF6B6B?style=for-the-badge&logoColor=white" alt="Hydra"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-FF6600?style=for-the-badge&logoColor=white" alt="Aircrack-ng"/>
+
+</div>
+
+<div align="center">
+
+| Security Area | Tools & Techniques |
+|---------------|-------------------|
+| **Network Analysis** | Wireshark, Nmap, Network Mapping |
+| **Password Security** | John the Ripper, Hashcat, Hydra |
+| **Wireless Security** | Aircrack-ng, WiFi Penetration Testing |
+| **Web Security** | OWASP Top 10, Vulnerability Assessment |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trimulia02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trimulia02&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Trimulia02&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</div>
 
 ## 🎮 Contribution Activity
 
+<div align="center">
+
+### 📈 Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
 </picture>
 
+### ⚡ GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trimulia02&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```text
+🔭 Currently working on: Cybersecurity projects and web development
+🌱 Learning: Advanced penetration testing and cloud security
+👯 Looking to collaborate on: Open source security tools
+🤔 Seeking help with: Machine learning in cybersecurity
+💬 Ask me about: Python, JavaScript, cybersecurity, or anything tech!
+⚡ Fun fact: I debug code faster than I debug my life 😄
+```
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trimulia02&repo=your-awesome-project&theme=tokyonight)](https://github.com/Trimulia02/your-awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trimulia02&repo=another-cool-project&theme=tokyonight)](https://github.com/Trimulia02/another-cool-project)
+
+</div>
+
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile! Feel free to reach out and connect! 🚀</i>
-</p>
+<div align="center">
+  
+### 💫 Profile Views Counter
+![](https://komarev.com/ghpvc/?username=Trimulia02&color=blueviolet&style=for-the-badge)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
+**Thanks for visiting my profile!** 
+
+*Let's build something amazing together! 🚀*
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
