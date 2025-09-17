@@ -164,6 +164,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trimulia02&repo=AirMalSys&theme=tokyonight)](https://github.com/Trimulia02/AirMalSys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trimulia02&repo=AirMalSys)](https://github.com/Trimulia02/AirMalSys)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trimulia02&Airmalsys=github-readme-stats)](https://github.com/Trimulia02/AirMalSys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trimulia02&repo=another-cool-project&theme=tokyonight)](https://github.com/Trimulia02/another-cool-project)
 
 </div>
