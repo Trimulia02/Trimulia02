@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 <!-- Banner (Optional) -->
 <p align="center">
   <img src="img/github-header-banner.png" width="80%" alt="GitHub Header Banner">
