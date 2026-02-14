@@ -52,19 +52,6 @@ During my studies, I explored various security concepts and tools:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trimulia02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trimulia02&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-qux2-1l3cq49q1-trimulia02s-projects.vercel.app/?user=Trimulia02" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🌱 Currently Working On
 
 - 🔨 Building full-stack projects to strengthen my backend skills
