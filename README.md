@@ -29,18 +29,17 @@ const trimulia = {
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma" />
-</div>
+<ddiv align="center">
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind" />
 
 ### Backend & Database (Learning)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,firebase" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,postgres,sequelize" />
 
 ### Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+
 </div>
 
 ### 🔐 Cybersecurity Interest
