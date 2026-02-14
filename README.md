@@ -60,7 +60,7 @@ During my studies, I explored various security concepts and tools:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-qux2-1l3cq49q1-trimulia02s-projects.vercel.app?user=Trimulia02&theme=tokyonight-duo" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-qux2-1l3cq49q1-trimulia02s-projects.vercel.app/?user=Trimulia02&theme=tokyonight-duo" alt="GitHub Streak"/>
 </div>
 
 ---
