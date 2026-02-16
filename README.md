@@ -29,7 +29,7 @@ const trimulia = {
 ## 🛠️ Tech Stack
 
 
-<div align="center">
+<div>
 
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind" />
